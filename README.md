@@ -11,8 +11,6 @@ Built for simplicity, security, and a smooth user experience.
 |--------------|--------------|
 | ![Login](./assets/screenshots/screenshot1.png) | ![Signup](./assets/screenshots/screenshot2.png) |
 
-*(Save your screenshots in `assets/screenshots/` and update the file names as needed.)*
-
 ---
 
 ## 🔧 Tech Stack
@@ -65,8 +63,3 @@ Built for simplicity, security, and a smooth user experience.
 
 Contributions are welcome! Please open an issue or a pull request to suggest changes.
 
----
-
-## 📄 License
-
-This project is [MIT](LICENSE) licensed.
