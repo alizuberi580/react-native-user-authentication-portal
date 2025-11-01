@@ -9,7 +9,7 @@ Built for simplicity, security, and a smooth user experience.
 
 | Login Screen | Signup Screen |
 |--------------|--------------|
-| ![Login](./assets/screenshots/login.png) | ![Signup](./assets/screenshots/signup.png) |
+| ![Login](./assets/screenshots/screenshot1.png) | ![Signup](./assets/screenshots/screenshot2.png) |
 
 *(Save your screenshots in `assets/screenshots/` and update the file names as needed.)*
 
